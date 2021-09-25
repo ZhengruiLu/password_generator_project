@@ -1,1 +1,5 @@
-# projects
+- 👋 Hi, I’m @ZhengruiLu
+- 👀 I’m seeking for SDE intern
+- 🌱 I’m currently a student of MSIS@Northeastern University
+- 💞️ I’m a 6-year language educators before
+- 📫 How to reach me: lu.zhengr@northeastern.edu
