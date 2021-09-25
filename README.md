@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZhengruiLu
+- 👋 Hi, I’m Zhengrui Lu
 - 👀 I’m seeking for SDE intern
 - 🌱 I’m currently a student of MSIS@Northeastern University
 - 💞️ I’m a 6-year language educator before
